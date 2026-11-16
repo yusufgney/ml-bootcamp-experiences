@@ -1,0 +1,11 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Training artifacts
+catboost_info/
+
+# Files over GitHub's 100MB limit
+creditcard.csv
+house_prices.csv
