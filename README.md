@@ -7,9 +7,6 @@ Jupyter notebooks and datasets from my machine learning bootcamp, covering:
 - **Unsupervised:** PCA, K-Means Clustering, Anomaly Detection
 - **Other:** Feature scaling, Box-Cox / Yeo-Johnson transformations, saving models, House Price EDA & deployment
 
-## Large datasets not included
+## Datasets
 
-These exceed GitHub's 100MB file limit and are not in the repo:
-
-- `creditcard.csv`: [Credit Card Fraud Detection (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- `house_prices.csv`
+The CSV datasets used in the notebooks are not included in this repo. Most are public datasets (e.g. Kaggle, UCI).
